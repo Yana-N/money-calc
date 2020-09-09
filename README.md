@@ -1,0 +1,1 @@
+App is counting incomes and expenses and keeps it local storage.
